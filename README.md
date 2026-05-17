@@ -132,7 +132,7 @@ Delivered frontend for two major national banking platforms.
 | **Bank of Ceylon Admin Portal** | Mobile banking admin portal with 30+ API integrations, accessibility-compliant | Next.js, TypeScript, Tailwind CSS | Private |
 | **Sampath Wishwa** | Next-gen internet banking platform UI (pre-launch) | React.js, TypeScript, Tailwind CSS | Private |
 
-> 💡 *Add links to your personal or open-source projects here as you build your public portfolio.*
+
 
 ---
 
