@@ -14,8 +14,7 @@
 )
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/disanda12)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:disandajayathilaka@gmail.com)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/disanda)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/it20134730)
+
 
 [![Profile Views](https://komarev.com/ghpvc/?username=disanda12&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS)](https://github.com/disanda12)
 
