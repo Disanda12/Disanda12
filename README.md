@@ -1,25 +1,104 @@
-<h1 align="center">Hi 👋, I'm Disanda</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=disanda12&label=Profile%20views&color=0e75b6&style=flat" alt="disanda12" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=disanda12" alt="disanda12" /></a> </p>
+# Disanda Jayathilaka
 
-- 🌱 I’m currently learning **Mean stack ,java**
+### Software Engineer
 
-- 📫 How to reach me **disandajayathilaka@gmail.com**
+[![Profile Views](https://komarev.com/ghpvc/?username=disanda12&label=Profile%20Views&color=0d1117&style=flat-square)](https://github.com/disanda12)
+[![Email](https://img.shields.io/badge/Email-disandajayathilaka%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=white)](mailto:disandajayathilaka@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/disanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="disanda" height="30" width="40" /></a>
-<a href="https://fb.com/disanda nihara jayathilaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="disanda nihara jayathilaka" height="30" width="40" /></a>
-<a href="https://instagram.com/disanda_j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="disanda_j" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/it20134730" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="it20134730" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=disanda12&show_icons=true&locale=en&layout=compact" alt="disanda12" /></p>
+## About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=disanda12&show_icons=true&locale=en" alt="disanda12" /></p>
+I'm a Software Engineer with a passion for building reliable, scalable software. I work across the full stack with a strong foundation in the MEAN stack and Java. I enjoy crafting clean backend logic as much as building intuitive user interfaces.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=disanda12&" alt="disanda12" /></p>
+- 🔭 Currently deepening my skills in **MEAN Stack** and **Java**
+- 💬 Ask me about **JavaScript**, **Node.js**, **React**, or **PHP/Laravel**
+- 📫 Reach me at **disandajayathilaka@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript)
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk)
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php)
+![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=flat-square&logo=bootstrap)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs)
+![Express.js](https://img.shields.io/badge/Express.js-0d1117?style=flat-square&logo=express)
+![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=flat-square&logo=laravel)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql)
+![MSSQL](https://img.shields.io/badge/SQL%20Server-0d1117?style=flat-square&logo=microsoftsqlserver)
+
+**Tools & Platforms**
+
+![Android](https://img.shields.io/badge/Android-0d1117?style=flat-square&logo=android)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux)
+![GCP](https://img.shields.io/badge/Google%20Cloud-0d1117?style=flat-square&logo=googlecloud)
+![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman)
+![Photoshop](https://img.shields.io/badge/Photoshop-0d1117?style=flat-square&logo=adobephotoshop)
+![MATLAB](https://img.shields.io/badge/MATLAB-0d1117?style=flat-square&logo=mathworks)
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Tech | Link |
+|---------|-------------|------|------|
+| **Project One** | Brief description of what this project does and the problem it solves. | Node.js, React, MongoDB | [View →](https://github.com/disanda12) |
+| **Project Two** | Brief description of what this project does and the problem it solves. | Laravel, MySQL | [View →](https://github.com/disanda12) |
+| **Project Three** | Brief description of what this project does and the problem it solves. | Java, Android | [View →](https://github.com/disanda12) |
+
+> ✏️ *Replace the placeholders above with your actual project names, descriptions, and links.*
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=disanda12&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=disanda12&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=disanda12&theme=github-dark-blue&hide_border=true)
+
+</div>
+
+---
+
+## 🤝 Connect
+
+<div align="left">
+
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-0d1117?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/disanda)
+[![Facebook](https://img.shields.io/badge/Facebook-0d1117?style=flat-square&logo=facebook)](https://fb.com/disanda%20nihara%20jayathilaka)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=flat-square&logo=instagram)](https://instagram.com/disanda_j)
+[![HackerRank](https://img.shields.io/badge/HackerRank-0d1117?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/it20134730)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Thanks for stopping by 👋</sub>
+</div>
